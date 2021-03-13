@@ -1,0 +1,24 @@
+{
+  "name": "hello-js-action-alu0101124896",
+  "version": "1.0.0",
+  "description": "Hello World program to practice with GitHub Actions and GitHub Pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101124896.git"
+  },
+  "keywords": [],
+  "author": "Sergio Tabares Hernández <alu0101124896@ull.edu.es> (https://github.com/alu0101124896)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101124896/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-alu0101124896#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
